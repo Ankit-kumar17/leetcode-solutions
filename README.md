@@ -21,4 +21,8 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
