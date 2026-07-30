@@ -26,4 +26,12 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
