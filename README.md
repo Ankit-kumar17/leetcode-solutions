@@ -26,6 +26,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1965-employees-with-missing-information/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
