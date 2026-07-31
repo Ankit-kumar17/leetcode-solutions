@@ -8,6 +8,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,8 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1652-defuse-the-bomb](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 <!---LeetCode Topics End-->
