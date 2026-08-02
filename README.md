@@ -27,6 +27,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
