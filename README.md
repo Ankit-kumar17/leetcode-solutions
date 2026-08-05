@@ -8,6 +8,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Sorting
@@ -46,6 +47,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 ## String
