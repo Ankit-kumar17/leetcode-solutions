@@ -12,6 +12,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
