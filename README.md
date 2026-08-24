@@ -45,6 +45,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
