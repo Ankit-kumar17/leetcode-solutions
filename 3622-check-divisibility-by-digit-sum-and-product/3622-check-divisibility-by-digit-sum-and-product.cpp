@@ -15,9 +15,6 @@ public:
         if(org%total==0){
             return true;
         }
-  
             return false;
-       
-      
     }
 };
