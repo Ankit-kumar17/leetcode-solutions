@@ -9,6 +9,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0011-container-with-most-water](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -79,4 +80,8 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
