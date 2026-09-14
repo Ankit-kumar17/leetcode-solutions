@@ -51,6 +51,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -68,6 +69,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
