@@ -11,6 +11,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0035-search-insert-position](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -22,6 +23,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0047-permutations-ii](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
