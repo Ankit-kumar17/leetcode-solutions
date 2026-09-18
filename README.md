@@ -6,6 +6,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
@@ -96,4 +97,8 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
