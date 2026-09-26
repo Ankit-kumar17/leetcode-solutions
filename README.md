@@ -10,6 +10,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0011-container-with-most-water](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0027-remove-element](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
@@ -36,6 +37,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0011-container-with-most-water](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0027-remove-element](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
