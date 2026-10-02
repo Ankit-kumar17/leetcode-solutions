@@ -14,6 +14,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0035-search-insert-position](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0054-spiral-matrix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -103,4 +104,12 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
