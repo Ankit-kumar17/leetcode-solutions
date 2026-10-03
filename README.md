@@ -15,6 +15,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -57,6 +58,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
