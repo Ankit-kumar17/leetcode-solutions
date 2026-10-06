@@ -15,6 +15,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | [0046-permutations](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0057-insert-interval](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
