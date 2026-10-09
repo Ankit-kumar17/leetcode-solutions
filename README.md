@@ -8,6 +8,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
@@ -78,6 +79,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Greedy
@@ -115,4 +117,8 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
