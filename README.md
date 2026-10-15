@@ -80,6 +80,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Greedy
@@ -121,4 +122,12 @@ My LeetCode solutions pushed automatically via LeetPush.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
