@@ -58,6 +58,7 @@ My LeetCode solutions pushed automatically via LeetPush.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
@@ -90,11 +91,13 @@ My LeetCode solutions pushed automatically via LeetPush.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Ankit-kumar17/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Backtracking
